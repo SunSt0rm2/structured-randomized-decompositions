@@ -1,6 +1,8 @@
 # structured-randomized-decompositions
 Appliances of structured random matrices in probabilistic algorithms for constructing approximate matrix decompositions
 
+Poster with results - nla_poster_final.pdf
+
 ### How to work with this project?
 After cloning repository and installing conda use this commands in terminal:
 
